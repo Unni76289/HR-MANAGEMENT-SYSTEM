@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/vinay/eclipse-workspace/JavaProject/mysql-connector-java-8.0.26.zip"/>
-	<classpathentry kind="lib" path="C:/Users/vinay/eclipse-workspace/JavaProject/postgresql-42.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Unnikrishnan/eclipse-workspace/JavaProject/mysql-connector-java-8.0.26.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Unnikrishnan/eclipse-workspace/JavaProject/postgresql-42.3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
